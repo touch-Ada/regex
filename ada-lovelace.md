@@ -1,0 +1,9 @@
+Augusta Ada King-Noel, Countess of Lovelace, allgemein als Ada Lovelace bzw. Lady Lovelace bekannt (geborene Hon. Augusta Ada Byron; * 10. Dezember 1815 in London; † 27. November 1852 ebenda), war eine britische Mathematikerin und Gesellschaftsdame. Sie war die Tochter des Dichters Lord Byron. Sie gilt als erste Erstellerin von Computerprogrammen.
+
+Lovelace arbeitete mit Charles Babbage an der von ihm entwickelten Analytical Engine. Diese wurde zwar niemals fertiggestellt, aber Ada Lovelace erkannte das große Potential dahinter, über die Verwendung als Maschine zur Berechnung mathematischer Tafeln hinaus, die ihr Erfinder Charles Babbage zunächst im Auge hatte. Das manifestierte sich 1843 in selbst hinzugefügten Notizen zu ihrer Übersetzung eines Artikels von Luigi Federico Menabrea über die Analytical Engine, die dreimal so lang waren wie der ursprüngliche Text. Die Erkenntnis, dass die Maschine mehr als nur Zahlen verarbeiten könnte, war bahnbrechend, wurde jedoch zu ihrer Lebzeit nicht erkannt.
+
+Sie legte in ihren Aufzeichnungen und in der Veröffentlichung auch ein konkretes Programm für die Maschine am Beispiel der Berechnung von Bernoulli-Zahlen vor. Daher gilt sie manchen Historikern als erste Programmiererin der Welt. Das wurde vor allem von Doron Swade, der sich intensiv mit Charles Babbages Biographie befasst, mit dem Argument kritisiert, konkrete Programmbeispiele hätten sich auch mehrere Jahre zuvor in Babbages Aufzeichnungen befunden. Das ändere nach Swade aber nichts an ihrer eigentlichen Bedeutung, visionär die weit über konkrete Rechnungen hinausgehende Bedeutung des Computers erkannt zu haben.
+
+Die Programmiersprache Ada, die Lovelace Medal, der Ada Lovelace Award sowie die Coins ADA der Kryptowährung des Cardano-Netzwerks wurden nach ihr benannt.
+
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Ada_Lovelace)
